@@ -40,6 +40,10 @@ To see documentation for all configurations:
  $ uncrustify --show-config
 ```
 
+Or read a config with comments
+[here](https://github.com/uncrustify/uncrustify/blob/master/documentation/htdocs/config.txt)
+which is at least mostly up to date.
+
 To see documentation only for the existing configuration, I recommend opening
 the file in a web viewer:
 [UncrustifyConfig](https://cdanu.github.io/uncrustify_config_preview/index.html)
