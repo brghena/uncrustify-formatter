@@ -2,12 +2,14 @@
 
 Uncrustify is a code formatting tool: https://github.com/uncrustify/uncrustify
 
-Uncrustify is used to format all code given to students in CS61C for two
-reasons. First and most importantly, it ensures a consistent code style.
-Secondarily, it is a part of the process of providing students with examples of
-well-written C code. Any new code written for projects or labs that will be
-provided to students should be formatted with this configuration.
+This is partially based on the template from https://github.com/61c-teach and the
+configuration from https://github.com/tock/libtock-c/tree/master/tools/uncrustify
 
+I like using Uncrustify to format all code given to students for two reasons.
+First and most importantly, it ensures a consistent code style. Secondarily, it
+is a part of the process of providing students with examples of well-written C
+code. Any new code written for projects or labs that will be provided to
+students should be formatted with this configuration.
 
 ## Installation
 
